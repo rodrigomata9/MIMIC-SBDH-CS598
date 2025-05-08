@@ -149,4 +149,4 @@ This project is released for academic use. Please refer to the license terms of 
 ## Links
 
 - [Video](https://mediaspace.illinois.edu/media/t/1_j9h794fg)
-- [Original Paper](https://arxiv.org/abs/2101.11943)
+- [Original Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC8734043/)
